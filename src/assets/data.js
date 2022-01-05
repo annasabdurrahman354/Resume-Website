@@ -7,8 +7,13 @@ const Data = {
                         <li>Recreated the popular android game Flappy Bird in C++ for desktop</li>
                         <li>My first graphical application project created using SFML library</li>
                     </ul>,
-            link: "",
+            link: false,
             thumb: "/thumbs/projects/0.png",
+            images : [
+                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
+                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+            ],
             date: "2019",
         },
         1: {
@@ -19,8 +24,13 @@ const Data = {
                         <li>Finalist in Lomba Inovasi Digital Mahasiswa by Kemendikbud RI</li>
                         <li>Enabled students to understand and memorize elements also interact with them to make some possible compound</li>
                     </ul>,
-            link: "null",
+            link: false,
             thumb: "/thumbs/projects/1.png",
+            images : [
+                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
+                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+            ],
             date: "2020",
         },
         2: {
@@ -32,8 +42,13 @@ const Data = {
                         <li>Implemented the database system design in SQL Server</li>
                         <li>Developed a simple CRUD GUI application that connectsto the database in Java using Java Swing</li>
                     </ul>,
-            link: "",
+            link: false,
             thumb: "/thumbs/projects/2.png",
+            images : [
+                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
+                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+            ],
             date: "2020",
         },
         3: {
@@ -43,8 +58,13 @@ const Data = {
                         <li>Built a simple website Turing Machine simulator in JavaScript usingthe Vue.jsframework</li>
                         <li>The app simulates and visualizes how a single tape and multi-track Turing Machine works for simple mathematic operations such as addition, subtraction, multiplication, division, factorial, modulo, power-to, and binary logarithm</li>
                     </ul>,
-            link: "",
+            link: false,
             thumb: "/thumbs/projects/3.png",
+            images : [
+                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
+                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+            ],
             date: "2021",
         },
         4: {
@@ -57,6 +77,11 @@ const Data = {
                     </ul>,
             link: "https://github.com/annasabdurrahman354/Crowfunding-Website",
             thumb: "/thumbs/projects/4.png",
+            images : [
+                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
+                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+            ],
             date: "2021",
         },
         5: {
@@ -69,6 +94,11 @@ const Data = {
                     </ul>,
             link: "https://github.com/annasabdurrahman354/Resume-Website",
             thumb: "/thumbs/projects/4.png",
+            images : [
+                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
+                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+            ],
             date: "2021",
         },
         
@@ -83,8 +113,13 @@ const Data = {
                         <li>Contributing in making user interface, program's logic and making Figma prototype</li>
                         <li>Competed in National Startup Competition by TheGreaterHub SBM ITB and became one of the 40 finalists</li>
                     </ul>,
-            link: "",
+            link: false,
             thumb: "/thumbs/projects/0.png",
+            images : [
+                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
+                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+            ],
             date: "2021",
         },
         1: {
@@ -98,6 +133,11 @@ const Data = {
                     </ul>,
             link: "https://github.com/annasabdurrahman354/SayFine",
             thumb: "/thumbs/projects/1.png",
+            images : [
+                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
+                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+            ],
             date: "2021",
         },  
     },

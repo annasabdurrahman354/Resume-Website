@@ -6,6 +6,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 import Profile from './components/Profile'
 import ProjectDetail from './pages/ProjectDetail'
@@ -45,15 +46,19 @@ function App() {
 
 function Nav() {
   return (
-    <div>
-      <nav className="md:mx-8 mb-3 px-6 py-2 z-10 sticky top-0 bg-white shadow rounded">
+      <nav className="md:mx-8 mb-3 -my-8 px-6 py-2 z-10 sticky top-0 bg-white shadow-md rounded">
         <ul className="flex flex-wrap">
-          <li className="m-3 lg:mx-5"><Link className="text-gray-800 text-medium hover:text-purple-600" to="/">Resume</Link></li>
-          <li className="m-3 lg:mx-5"><Link className="text-gray-800 text-medium hover:text-purple-600" to="project">Project</Link></li>
-          <li className="m-3 lg:mx-5"><Link className="text-gray-800 text-medium hover:text-purple-600" to="work">Work</Link></li>
+          <li className="m-3 lg:mx-5">
+            <NavLink to="/" className={({ isActive }) => isActive ? "text-purple-800 text-medium font-semibold hover:text-purple-600" : "text-gray-700 text-medium hover:text-purple-600"}>Resume</NavLink>
+          </li>
+          <li className="m-3 lg:mx-5">
+            <NavLink to="project" className={({ isActive }) => isActive ? "text-purple-800 text-medium font-semibold hover:text-purple-600" : "text-gray-700 text-medium hover:text-purple-600"}>Project</NavLink>
+          </li>
+          <li className="m-3 lg:mx-5">
+            <NavLink to="work" className={({ isActive }) => isActive ? "text-purple-800 text-medium font-semibold hover:text-purple-600" : "text-gray-700 text-medium hover:text-purple-600"}>Work</NavLink>
+          </li>
         </ul>
       </nav>
-    </div>
   );
 }
 
