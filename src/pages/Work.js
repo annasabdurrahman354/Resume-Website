@@ -9,11 +9,11 @@ const Work = () => {
     return (
         <section className="pb-10">
             <div className="flex flex-wrap md:px-4">
-            {Object.keys(Data.works).map((key) => (
+            {Object.keys(Data.works).sort( function ( a, b ) { return b - a; } ).map((key) => (
                 <div className="w-full lg:w-1/2">
                     <div className="my-4 md:mx-4 shadow p-6 rounded-md bg-white group hover:shadow-md">
                         <div className="relative mb-6 w-full h-48 bg-purple-200 rounded-md overflow-hidden">
-                            <img src="/static/media/project-01.44803522.jpg" alt="coverImage" className="w-full h-full object-cover object-center" />
+                            <img src={Data.works[key].thumb} alt="coverImage" className="w-full h-full object-cover object-center" />
                             <div className="absolute opacity-0 transition duration-200 bg-purple-100 bg-opacity-80 w-full flex items-center justify-center h-full left-0 top-0 group-hover:opacity-100 group-hover:visible">
                             <ul className="flex flex-wrap">
                                 <li className="m-2">
@@ -26,7 +26,7 @@ const Work = () => {
                             </ul>
                             </div>
                         </div>
-                    <h3 className="text-lg font-medium text-gray-800 mb-2">{Data.works[key].title}</h3>
+                    <h3 className="text-lg font-medium text-purple-800 mb-2">{Data.works[key].title}</h3>
                     <p className="text-gray-400">{Data.works[key].desc}</p>
                     </div>
                 </div>
