@@ -8,9 +8,7 @@ const Profile = () => {
     return (
         <div className="w-full lg:w-1/3 ">
         <aside className="sticky top-0 bg-white md:mx-8 lg:mx-4 mb-8 p-6 shadow-md rounded-md -mt-40">
-          <div className="w-24 h-32 rounded-md overflow-hidden mx-auto mb-5">
-            <img src={logo} alt="Annas Abdurrahman" className="w-full rounded h-full" />
-          </div>
+          
           <div className="text-center">
             <h1 className="text-xl text-gray-800 font-bold mb-1">Annas Abdurrahman</h1>
             <p className="text-sm text-gray-400 mb-3">College Student at
