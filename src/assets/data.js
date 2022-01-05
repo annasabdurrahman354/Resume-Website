@@ -1,4 +1,4 @@
-export default{
+const Data = {
     projects: {
         0: {
             title: "Flappy Bird Clone",
@@ -103,3 +103,5 @@ export default{
     },
     
 };
+
+export default Data

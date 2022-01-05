@@ -1,9 +1,6 @@
 import React from 'react'
 import logo from '../assets/profile.jpg'
 import {
-  BrowserRouter,
-  Routes,
-  Route,
   Link
 } from "react-router-dom";
 
