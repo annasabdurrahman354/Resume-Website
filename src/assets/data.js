@@ -24,12 +24,22 @@ const Data = {
                         <li>Finalist in Lomba Inovasi Digital Mahasiswa by Kemendikbud RI</li>
                         <li>Enabled students to understand and memorize elements also interact with them to make some possible compound</li>
                     </ul>,
-            link: false,
-            thumb: "/thumbs/projects/0.png",
+            link: "https://github.com/annasabdurrahman354/Atom.ez",
+            thumb: "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/1.png",
             images : [
-                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
-                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
-                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/1.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/2.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/3.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/4.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/5.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/6.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/7.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/8.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/9.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/10.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/11.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/12.png",
+                "https://github.com/annasabdurrahman354/Atom.ez/raw/main/Screenshot/13.png",
             ],
             date: "2020",
         },
@@ -130,11 +140,10 @@ const Data = {
                         <li>Competed in National Startup Competition by TheGreaterHub SBM ITB and became one of the 40 finalists</li>
                     </ul>,
             link: false,
-            thumb: "/thumbs/projects/0.png",
+            thumb: "/screenshots/C1.png",
             images : [
-                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
-                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
-                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+                "/screenshots/C1.png",
+                "/screenshots/C2.png",
             ],
             date: "2021",
         },
@@ -148,11 +157,19 @@ const Data = {
                         <li>The administrator can use a CRUD menu that can be used to manage their database in the app</li>
                     </ul>,
             link: "https://github.com/annasabdurrahman354/SayFine",
-            thumb: "/thumbs/projects/0.png",
+            thumb: "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/1.png",
             images : [
-                "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
-                "https://images.unsplash.com/photo-1506710507565-203b9f24669b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1536&q=80",
-                "https://images.unsplash.com/photo-1536987333706-fc9adfb10d91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/1.png",
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/2.png",
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/3.png",
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/4.png",
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/5.png",
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/6.png",
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/7.png",
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/8.png",
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/9.png",
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/10.png",
+                "https://github.com/annasabdurrahman354/SayFine/raw/main/Screenshot/11.png",
             ],
             date: "2021",
         },  
