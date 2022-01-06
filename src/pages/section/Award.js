@@ -20,7 +20,13 @@ const Award = () => {
                 <p className="leading-tight text-justify w-full">
                   Finalist
                 </p>
+                <a className="mt-4 w-8 h-8 text-xl text-green-600 flex items-center justify-center bg-green-200 rounded hover:text-white hover:bg-green-600 mb-4" href='https://github.com/annasabdurrahman354/Resume-Website/raw/master/public/files/Sertif-LIDM.pdf' >
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                  </svg>
+                </a>
               </div>
+              
             </div>
 
           </div>

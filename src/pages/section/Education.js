@@ -58,7 +58,15 @@ const Education = () => {
               </div>
               <div className="bg-green-500 col-start-2 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
                 <h3 className="font-semibold text-lg mb-1 text-gray-50">SMAN 1 Bantul</h3>
+                <p className="leading-tight text-justify w-full">
+                  2016-2019
+                </p>
+                <p className="leading-tight text-justify w-full">
+                  Natural Science Major
+                </p>
+                
               </div>
+              
             </div>
 
           </div>

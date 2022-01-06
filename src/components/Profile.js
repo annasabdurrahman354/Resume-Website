@@ -9,8 +9,8 @@ const Profile = () => {
             <p className="text-sm text-gray-400 mb-3">College Student at
               <a href="https://uns.ac.id/id/" className="text-purple-600 pl-1">Universitas Sebelas Maret</a>
             </p>
-            <a className="inline-block mb-3 mx-2 rounded bg-purple-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800" href='https://github.com/annasabdurrahman354/Resume-Website/raw/master/public/files/resume.pdf' download="Resume.pdf">Download Resume</a>
-            <a className="inline-block mb-3 mx-2 rounded bg-blue-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-blue-800" href="https://github.com/annasabdurrahman354/Resume-Website/raw/master/public/files/portfolio.jpg" download="Portfolio.png">Download Portfolio</a>            
+            <a className="inline-block mb-3 mx-2 rounded bg-purple-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800" href='https://github.com/annasabdurrahman354/Resume-Website/raw/master/public/files/Resume.pdf' download="Resume.pdf">Download Resume</a>
+            <a className="inline-block mb-3 mx-2 rounded bg-blue-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-blue-800" href="https://github.com/annasabdurrahman354/Resume-Website/raw/master/public/files/Portfolio.pdf" download="Portfolio.pdf">Download Portfolio</a>            
             <ul className="flex flex-wrap justify-center">
               <li className="m-2">
                 <a href="https://api.whatsapp.com/send?phone=6285786537295" className="w-8 h-8 bg-purple-100 rounded text-purple-800 flex items-center justify-center hover:text-white hover:bg-purple-600">

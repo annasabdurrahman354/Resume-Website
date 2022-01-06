@@ -30,19 +30,19 @@ const Organization = () => {
             <div className="flex md:contents">
               <div className="col-start-1 col-end-2 mr-10 md:mx-auto relative">
                 <div className="h-full w-6 flex items-center justify-center">
-                  <div className="h-full w-1 bg-blue-500 pointer-events-none" />
+                  <div className="h-full w-1 bg-green-500 pointer-events-none" />
                 </div>
-                <div className="w-6 h-6 absolute top-1/2 -mt-3 rounded-full bg-blue-500 shadow text-center">
+                <div className="w-6 h-6 absolute top-1/2 -mt-3 rounded-full bg-green-500 shadow text-center">
                   <i className="fas fa-check-circle text-white" />
                 </div>
               </div>
-              <div className="bg-blue-500 col-start-2 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
+              <div className="bg-green-500 col-start-2 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
                 <p className="font-semibold text-lg mb-1">Panitia Penerimaan Santri Baru 2021</p>
                 <p className="leading-tight text-justify w-full">
                   Secretary
                 </p>
                 <p className="leading-tight text-justify w-full">
-                  2019 - present
+                  2021
                 </p>
 
               </div>
@@ -65,6 +65,11 @@ const Organization = () => {
                 <p className="leading-tight text-justify w-full">
                   2020-2021
                 </p>
+                <a className="mt-4 w-8 h-8 text-xl text-green-600 flex items-center justify-center bg-green-200 rounded hover:text-white hover:bg-green-600 mb-4" href='https://github.com/annasabdurrahman354/Resume-Website/raw/master/public/files/Sertif-DMC-PASUS-1.pdf' >
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                  </svg>
+                </a>
               </div>
             </div>
 
@@ -105,6 +110,11 @@ const Organization = () => {
                 <p className="leading-tight text-justify w-full">
                   2020
                 </p>
+                <a className="mt-4 w-8 h-8 text-xl text-green-600 flex items-center justify-center bg-green-200 rounded hover:text-white hover:bg-green-600 mb-4" href='https://github.com/annasabdurrahman354/Resume-Website/raw/master/public/files/Sertif-PPWSWS.pdf' >
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                  </svg>
+                </a>
               </div>
             </div>
             
