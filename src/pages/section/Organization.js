@@ -98,7 +98,7 @@ const Organization = () => {
                 </div>
               </div>
               <div className="bg-green-500 col-start-2 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
-                <p className="font-semibold text-lg mb-1">Panitia Wisuda Santri dan Pertemuan Walisantri 2020</p>
+                <p className="font-semibold text-lg mb-1">Panitia Pertemuan Walisantri dan Wisuda Santri 2020</p>
                 <p className="leading-tight text-justify w-full">
                   Consumption Division
                 </p>
